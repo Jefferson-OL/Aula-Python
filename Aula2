@@ -1,0 +1,4 @@
+notaum=8
+notadois=9
+media=(notaum+notadois)/2
+print ("A media e:"+str(media))
